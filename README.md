@@ -14,4 +14,7 @@ Word/Outlook Add-in, das mit Ollama (z. B. Qwen2.5:3b) kommuniziert über .NET A
 1. .NET API lokal starten  
 2. Add-in Manifest in Word/Outlook laden  
 3. Taskpane Add-in testen  
-4. Ollama API verwenden 
+4. Ollama API verwenden
+
+##22.08.2025
+Heute habe ich an einem Word/Outlook Add-in gearbeitet, das über die Ollama API kommuniziert. Das Add-in ist in .NET entwickelt und ermöglicht es, Textanfragen direkt an das Ollama-Modell zu senden und die Antworten in der Taskpane anzuzeigen.
