@@ -18,3 +18,15 @@ Word/Outlook Add-in, das mit Ollama (z. B. Qwen2.5:3b) kommuniziert über .NET A
 
 ##22.08.2025
 Heute habe ich an einem Word/Outlook Add-in gearbeitet, das über die Ollama API kommuniziert. Das Add-in ist in .NET entwickelt und ermöglicht es, Textanfragen direkt an das Ollama-Modell zu senden und die Antworten in der Taskpane anzuzeigen.
+
+##29.08.2025
+- [x] Local version von ollama auswählen
+- [ ] API für mit Local LLM zu Komunitire
+- [ ] Input und output generirbar machen über API
+
+Heute habe ich am Word/Outlook Add-in gearbeitet und mich für Gemma 3:4B entschieden, da dieses Modell gute Antworten liefert und nicht zu gross für meinen Laptop ist.
+Ich habe beschlossen, von Backend zu Interface hochzuarbeiten, damit die Basis (API & Kommunikation) zuerst stabil läuft.
+
+##5.09.2025
+- [ ] API für mit Local LLM zu Komunitire
+- [ ] Input und output generirbar machen über API 
