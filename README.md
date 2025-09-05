@@ -28,5 +28,5 @@ Heute habe ich am Word/Outlook Add-in gearbeitet und mich für Gemma 3:4B entsch
 Ich habe beschlossen, von Backend zu Interface hochzuarbeiten, damit die Basis (API & Kommunikation) zuerst stabil läuft.
 
 ##5.09.2025
-- [ ] API für mit Local LLM zu Komunitire
-- [ ] Input und output generirbar machen über API 
+- [x] API für mit Local LLM zu Komunitire
+- [x] Input und output generirbar machen über API 
